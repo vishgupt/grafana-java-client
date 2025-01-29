@@ -1,5 +1,6 @@
-package com.rainier.grafana.client;
+package com.rainier.grafana.client.impl;
 
+import com.rainier.grafana.client.GrafanaClient;
 import java.util.concurrent.ConcurrentHashMap;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
