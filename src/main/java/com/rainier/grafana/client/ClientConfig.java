@@ -1,5 +1,5 @@
 package com.rainier.grafana.client;
 
-public interface ClientConfiguration {
+public interface ClientConfig {
   String baseUrl();
 }
