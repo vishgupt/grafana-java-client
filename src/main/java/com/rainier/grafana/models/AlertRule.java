@@ -26,7 +26,7 @@ public record AlertRule(String title, String ruleGroup, String folderUID, String
 
   }
 
-  public record Evaluator(List<Integer> params, String type) {
+  public record Evaluator(List<Double> params, String type) {
 
   }
 
